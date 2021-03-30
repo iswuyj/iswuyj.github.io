@@ -1,6 +1,6 @@
 ![logo](https://docsify.js.org/_media/icon.svg)
 
-# 豆瓣影音
+# 笔记整理
 
 > 使用Vue全家桶+Node.js搭建的小型全栈项目.
 
